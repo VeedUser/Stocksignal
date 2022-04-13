@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Stock signal</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Stock signal</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="upgrade_signal">Upgrade Signal   > </string>
+    <string name="upgrade_analysis">Upgrade Analysis  > </string>
+    <string name="upgrade_stock">Upgrade Stock</string>
+    <string name="profile">Profile</string>
+    <string name="feedback">Feedback</string>
+    <string name="disclaimer">Disclaimer</string>
+    <string name="privacy_policy">Privacy Policy</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="push_notification">Push Notification</string>
+</resources>

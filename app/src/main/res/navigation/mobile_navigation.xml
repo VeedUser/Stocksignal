@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_upgrade_signal">
+
+    <fragment
+        android:id="@+id/nav_upgrade_signal"
+        android:name="com.example.stocksignal.ui.signal.SignalFragment"
+        android:label="@string/upgrade_signal"
+        tools:layout="@layout/fragment_signal" />
+
+    <fragment
+        android:id="@+id/nav_upgrade_analysis"
+        android:name="com.example.stocksignal.ui.analysis.AnalysisFragment"
+        android:label="@string/upgrade_analysis"
+        tools:layout="@layout/fragment_analysis" />
+
+    <fragment
+        android:id="@+id/nav_upgrade_stock"
+        android:name="com.example.stocksignal.ui.stock.StockFragment"
+        android:label="@string/upgrade_stock"
+        tools:layout="@layout/fragment_stock" />
+    <fragment
+        android:id="@+id/nav_disclaimer"
+        android:name="com.example.stocksignal.ui.disclaimer.DisclaimerFragment"
+        android:label="fragment_disclaimer"
+        tools:layout="@layout/fragment_disclaimer" />
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="com.example.stocksignal.ui.profile.ProfileFragment"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/nav_feedback"
+        android:name="com.example.stocksignal.ui.feedback.FeedbackFragment"
+        android:label="fragment_feedback"
+        tools:layout="@layout/fragment_feedback" />
+    <fragment
+        android:id="@+id/nav_privacy_policy"
+        android:name="com.example.stocksignal.ui.privacy.PrivacyPolicyFragment"
+        android:label="fragment_privacy_policy"
+        tools:layout="@layout/fragment_privacy_policy" />
+</navigation>
