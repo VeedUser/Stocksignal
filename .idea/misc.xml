@@ -8,12 +8,15 @@
         <entry key="..\:/Users/Veed/AndroidStudioProjects/Stocksignal/app/src/main/res/drawable/ic_disclaimer.xml" value="0.143" />
         <entry key="..\:/Users/Veed/AndroidStudioProjects/Stocksignal/app/src/main/res/drawable/ic_feedback.xml" value="0.143" />
         <entry key="..\:/Users/Veed/AndroidStudioProjects/Stocksignal/app/src/main/res/drawable/ic_feedbook.xml" value="0.114" />
+        <entry key="..\:/Users/Veed/AndroidStudioProjects/Stocksignal/app/src/main/res/drawable/ic_frame_4.xml" value="0.203" />
         <entry key="..\:/Users/Veed/AndroidStudioProjects/Stocksignal/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3475" />
+        <entry key="..\:/Users/Veed/AndroidStudioProjects/Stocksignal/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.114" />
         <entry key="..\:/Users/Veed/AndroidStudioProjects/Stocksignal/app/src/main/res/drawable/ic_menu_camera.xml" value="0.3475" />
         <entry key="..\:/Users/Veed/AndroidStudioProjects/Stocksignal/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.223" />
         <entry key="..\:/Users/Veed/AndroidStudioProjects/Stocksignal/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.223" />
         <entry key="..\:/Users/Veed/AndroidStudioProjects/Stocksignal/app/src/main/res/drawable/ic_privacy.xml" value="0.143" />
         <entry key="..\:/Users/Veed/AndroidStudioProjects/Stocksignal/app/src/main/res/drawable/ic_profile.xml" value="0.143" />
+        <entry key="..\:/Users/Veed/AndroidStudioProjects/Stocksignal/app/src/main/res/drawable/ic_provacy.xml" value="0.193" />
         <entry key="..\:/Users/Veed/AndroidStudioProjects/Stocksignal/app/src/main/res/drawable/ic_push.xml" value="0.143" />
         <entry key="..\:/Users/Veed/AndroidStudioProjects/Stocksignal/app/src/main/res/drawable/ic_upgrade.xml" value="0.143" />
         <entry key="..\:/Users/Veed/AndroidStudioProjects/Stocksignal/app/src/main/res/drawable/side_nav_bar.xml" value="0.223" />
@@ -42,6 +45,7 @@
         <entry key="..\:/Users/Veed/AndroidStudioProjects/Stocksignal/app/src/main/res/layout/switch_item.xml" value="0.3197463768115942" />
         <entry key="..\:/Users/Veed/AndroidStudioProjects/Stocksignal/app/src/main/res/menu/activity_main_drawer.xml" value="0.5" />
         <entry key="..\:/Users/Veed/AndroidStudioProjects/Stocksignal/app/src/main/res/menu/main.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/Veed/AndroidStudioProjects/Stocksignal/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.114" />
       </map>
     </option>
   </component>
